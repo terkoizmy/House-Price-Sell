@@ -7,3 +7,5 @@ This Project has been create for kaggle competion training from [this](https://w
 * Normalization Scale
 * Modeling With ANN
 * Mount to drive
+## Explore Data Analys
+  Exploratory Analysis the correlation of column onboard House Price Sell case using Pandas and Seaborn visualisations
